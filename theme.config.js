@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/jharrvis/stieama-docs',
+  docsRepositoryBase: 'https://github.com/jharrvis/stieama-docs/blob/master',
   titleSuffix: ' – Nextra',
   logo: (
     <>
